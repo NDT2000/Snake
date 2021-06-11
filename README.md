@@ -1,4 +1,4 @@
-# Snake
+# Snake🐍
 The popular Nokia game: Snake
 
 ## **Description**
